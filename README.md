@@ -13,7 +13,7 @@ Passionate developer with over 20 years of programming experience. Started as an
 I have up-to-date knowledge of Rust and Flutter, along with extensive experience working with various technologies. I am ready to quickly adapt to company requirements and dive into new technologies.  
 
 ## Skills  
-- **Programming Languages:** Python, JavaScript/TypeScript, PHP, Java, C#, Scala, Delphi, HTML/CSS/JS  
+- **Programming Languages:** Rust, Flutter, JavaScript/TypeScript, PHP, Java, C#, Scala, Delphi, HTML/CSS/JS  
 - **Frameworks & Technologies:** Actix, Axum, Rocket, Diesel, Tokio  
 - **Databases:** PostgreSQL, SQLite, MySQL  
 - **DevOps & Tools:** Docker, Git, CI/CD  
